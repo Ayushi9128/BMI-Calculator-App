@@ -14,22 +14,22 @@ The BMI (Body Mass Index) Calculator App is a lightweight Flutter-based mobile a
 BMI Calculator Page 
 It is a default screen when user opens up the app , the screen will display weight and height textfields to get the user input. The weight will be taken in kgs and height will be taken in two parts feets and inches
 <br>
+<br>
 <p align="center">
  <img width="356" height="669" alt="Calculator Screenshot" src="https://github.com/user-attachments/assets/469d89fa-2284-482a-99aa-3f2a912880ac" />
 </p>
 <br>
-<br>
-The user inputs the data of weight and height, if user does not enter any one field: the app will show "Please fill all the blanks". 
+The user inputs the data of weight and height, if user does not enter any one field: the app will show a message. For instance : the user does not give the input of weight and input the height in feet and inches as 5. The maessage will be displayed "Please fill all the details".
 <br>
 <p align="center">
  <img width="356" height="669" alt="Input Screenshot" src="https://github.com/user-attachments/assets/14aa08ce-cb45-4a67-aeb8-793d25eb9163" />
 </p>
 <br>
-The user will give all the data and click the buton Calculate and then the result will be displayed. The BMI and the category in which he falls will be dispalyed. The categories are Under weight, Healthy, Over weight.
+The user will give all the data and click the buton Calculate and then the result will be displayed. The BMI and the category in which he falls will be dispalyed. The categories are Under weight, Healthy, Over weight.For instance: 
 <br>
 <br>
 <p align="center">
-<img width="356" height="669" alt="Result Screenshot" src="https://github.com/user-attachments/assets/46b5efbf-c5f0-409a-999e-c2add8f66cfe" />
+<img width="356" height="669" alt="Result Screenshot" src="https://github.com/user-attachments/assets/c7ab45db-c66b-4ed9-b8b8-316d644c4e6f" />
 </p>
 
 # Prerequisites:
