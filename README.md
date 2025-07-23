@@ -13,7 +13,9 @@ The BMI (Body Mass Index) Calculator App is a lightweight Flutter-based mobile a
 BMI Calculator Page 
 It is a default screen when user opens up the app , the screen will display weight and height textfields to get the user input. 
 <br>
-<img width="356" height="669" style="text-align:center;" alt="Calculator Screenshot" src="https://github.com/user-attachments/assets/469d89fa-2284-482a-99aa-3f2a912880ac" />
+<p align="center">
+ <img width="356" height="669" alt="Calculator Screenshot" src="https://github.com/user-attachments/assets/469d89fa-2284-482a-99aa-3f2a912880ac" />
+</p>
 
 # Prerequisites:
 
