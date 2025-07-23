@@ -18,6 +18,7 @@ It is a default screen when user opens up the app , the screen will display weig
  <img width="356" height="669" alt="Calculator Screenshot" src="https://github.com/user-attachments/assets/469d89fa-2284-482a-99aa-3f2a912880ac" />
 </p>
 <br>
+<br>
 The user inputs the data of weight and height, if user does not enter any one field: the app will show "Please fill all the blanks". 
 <br>
 <p align="center">
@@ -25,6 +26,7 @@ The user inputs the data of weight and height, if user does not enter any one fi
 </p>
 <br>
 The user will give all the data and click the buton Calculate and then the result will be displayed. The BMI and the category in which he falls will be dispalyed. The categories are Under weight, Healthy, Over weight.
+<br>
 <br>
 <p align="center">
 <img width="356" height="669" alt="Result Screenshot" src="https://github.com/user-attachments/assets/46b5efbf-c5f0-409a-999e-c2add8f66cfe" />
