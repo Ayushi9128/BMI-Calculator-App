@@ -21,6 +21,7 @@ It is a default screen when user opens up the app , the screen will display weig
 <br>
 The user inputs the data of weight and height, if user does not enter any one field: the app will show a message. For instance : the user does not give the input of weight and input the height in feet and inches as 5. The maessage will be displayed "Please fill all the details".
 <br>
+<br>
 <p align="center">
  <img width="356" height="669" alt="Input Screenshot" src="https://github.com/user-attachments/assets/14aa08ce-cb45-4a67-aeb8-793d25eb9163" />
 </p>
