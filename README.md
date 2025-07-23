@@ -19,6 +19,7 @@ It is a default screen when user opens up the app , the screen will display weig
 </p>
 <br>
 The user inputs the data of weight and height, if user does not enter any one field: the app will show "Please fill all the blanks". 
+<br>
 <p align="center">
  <img width="356" height="669" alt="Input Screenshot" src="https://github.com/user-attachments/assets/14aa08ce-cb45-4a67-aeb8-793d25eb9163" />
 </p>
