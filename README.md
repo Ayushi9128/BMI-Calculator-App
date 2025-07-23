@@ -12,7 +12,9 @@ The BMI (Body Mass Index) Calculator App is a lightweight Flutter-based mobile a
 * Offer instant BMI results with classification.
 * Educate users on healthy weight ranges.
 
-<img width="486" height="869" style="display:block;margin:auto;" alt="Calculator Screenshot" src="https://github.com/user-attachments/assets/469d89fa-2284-482a-99aa-3f2a912880ac" />
+BMI Calculator Page 
+It is a default screen when user opens up the app
+<img width="386" height="569" style="text-align:center;" alt="Calculator Screenshot" src="https://github.com/user-attachments/assets/469d89fa-2284-482a-99aa-3f2a912880ac" />
 
 # Prerequisites:
 
